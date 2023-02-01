@@ -101,7 +101,7 @@
                ]
             },
             "Code":{
-               "S3Bucket":"uow-cw",
+               "S3Bucket":"fds-lambda-bucket",
                "S3Key":"FoodDeliveryStstem-1.0.0.jar"
             },
             "Runtime":"java11",
